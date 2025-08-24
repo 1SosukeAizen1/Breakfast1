@@ -1,0 +1,86 @@
+{
+  "breakfast1/1": {
+	"Sandwiches:":[
+		{
+			"name":"",
+			"desc":"",
+			"price":""
+		}
+	],
+    "Sausage eggs and cheese":[
+      {
+        "name": "",
+        "desc": "sandwich with Fried egg, sausage patty, American cheese, on a toasted bun",
+        "price": "$4.99"
+      }
+	],
+	"Bacon eggs and cheese":[
+	  {
+        "name": "",
+        "desc": "sandwich Fried egg, bacon, American cheese, on a toasted bun",
+        "price": "$4.99"
+      }
+	],
+	"Gyro eggs":[
+      {
+        "name": "",
+        "desc": "sandwich with Scrambled eggs with gyro meat",
+        "price": "$5.99"
+      }
+	],
+	"Eggs and cheese":[
+      {
+        "name": "",
+        "desc": "sadwich with Fried egg, American cheese, on a toasted bun",
+        "price": "$3.99"
+      }
+    ]
+    
+    
+  },
+  "breakfast1/2": {
+	"Pancakes": [
+	{
+		"name": "",
+		"desc": "Stack of pancakes with butter, syrup",
+		"price": ""
+	},
+      {
+        "name": "2 Pc pancakes",
+        "desc": "",
+        "price": "$4.99"
+      },
+	  {
+		"name": "3 Pc pancakes",
+		"desc": "",
+		"price": "$6.99"
+	  },
+	  {
+		"name": "4 Pc pancakes",
+		"desc": "",
+		"price": "$8.99"
+	  }
+
+	 ],
+	 "Waffles": [
+      {
+        "name": "1 Slim's Waffle",
+        "desc": "Crispy waffle, butter, syrup. You can add whipped cream or fruit.",
+        "price": "$6.99"
+      }
+    ],
+    
+    "Drinks": [
+      {
+        "name": "Coffee",
+        "desc": "Locally sourced, freshly brewed coffee.",
+        "price": "$3.49"
+      },
+      {
+        "name": "Milk",
+        "desc": "Whole milk or skim milk.",
+        "price": "$2.49"
+      }
+    ]
+  }
+}
