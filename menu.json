@@ -59,7 +59,7 @@
 	 "Waffles": [
       {
         "name": "1 Slim's Waffle",
-        "desc": "Crispy waffle, butter, syrup. You can add whipped cream.",
+        "desc": "Crispy waffle, butter, syrup and cream.",
         "price": "$6.99"
       }
     ],
@@ -67,7 +67,7 @@
     "Drinks": [
       {
         "name": "Coffee",
-        "desc": "Locally sourced, freshly brewed coffee.",
+        "desc": "Locally sourced coffee.",
         "price": "$3.49"
       },
       {
