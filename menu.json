@@ -59,7 +59,7 @@
 	 "Waffles": [
       {
         "name": "1 Slim's Waffle",
-        "desc": "Crispy waffle, butter, syrup. You can add whipped cream or fruit.",
+        "desc": "Crispy waffle, butter, syrup. You can add whipped cream.",
         "price": "$6.99"
       }
     ],
@@ -74,7 +74,13 @@
         "name": "Milk",
         "desc": "Whole milk",
         "price": "$2.49"
-      }
+      },
+       {
+        "name": "orange juice",
+        "desc": "Tropicana",
+        "price": "$2.99"
+      },
+       
     ]
   }
 }
